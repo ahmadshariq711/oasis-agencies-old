@@ -1,0 +1,25 @@
+.full-height {
+    height: 100vh;
+}
+.half-height {
+    min-height:50vh;
+    padding: 5%;
+}
+.half-width {
+    width: 48%;
+    padding: 1%;
+    display: inline-block;
+    text-align: left;
+}
+
+.third-width {
+    width: 32%;
+    padding: 1%;
+    display: inline-block;
+    text-align: center;
+}
+
+.navbar {
+    height: 8vh;
+    font-size: larger;
+}
