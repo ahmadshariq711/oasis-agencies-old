@@ -24,6 +24,10 @@
     font-size: larger;
 }
 
+.nav-item {
+    margin-left: 1px;
+}
+
 a {
     line-height: 256px;
 }
