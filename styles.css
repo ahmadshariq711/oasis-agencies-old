@@ -23,3 +23,7 @@
     height: 8vh;
     font-size: larger;
 }
+
+a {
+    line-height: 256px;
+}
